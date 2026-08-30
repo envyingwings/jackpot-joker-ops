@@ -1,0 +1,54 @@
+name: Build and deploy Jackpot Joker site
+
+on:
+  schedule:
+    # Runs once a day at 07:00 UK time. The timezone field (added to GitHub
+    # Actions in March 2026) keeps this at 07:00 local across BST/GMT changes,
+    # rather than drifting by an hour twice a year like a bare UTC cron would.
+    - cron: "0 7 * * *"
+      timezone: "Europe/London"
+  workflow_dispatch: {}  # lets you trigger a run manually from the Actions tab
+
+permissions:
+  contents: write   # needed to commit site_data.json back to the repo
+  pages: write       # needed to deploy to GitHub Pages
+  id-token: write    # needed by the Pages deployment action
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 jinja2
+
+      - name: Scrape and build site
+        run: python build_site.py --ci
+
+      - name: Commit updated site_data.json back to the repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add site_data.json
+          git diff --staged --quiet && echo "No data changes to commit" || git commit -m "Update scraped competition data"
+          git push
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./output
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page_title }} · Jackpot Joker Ops</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="topbar">
+    <div class="brand">Jackpot Joker<small>Ops Console · Experimental</small></div>
+    <nav class="nav-links">
+      <a href="calendar.html" class="{{ 'active' if active == 'calendar' else '' }}">Ad Calendar</a>
+      <a href="sunday-draws.html" class="{{ 'active' if active == 'sunday' else '' }}">Sunday Draws</a>
+      <a href="competitions.html" class="{{ 'active' if active == 'competitions' else '' }}">All Competitions</a>
+    </nav>
+  </div>
+  <main>
+    {{ content }}
+  </main>
+  <footer>
+    Generated {{ generated_at }} · Read-only mirror, not connected to Obsidian.
+  </footer>
+</body>
+</html>
