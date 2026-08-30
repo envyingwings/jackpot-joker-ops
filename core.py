@@ -40,7 +40,7 @@ POSTS_PER_DAY = 4
 MIN_GAP_DAYS = 5
 NOT_LIVE_STATUSES = {"inactive", "drawn"}
 
-WEEKDAY_SLOT_TIMES = ["9:30am", "12:00pm", "7:00pm", "7:00pm"]
+WEEKDAY_SLOT_TIMES = ["9am", "12:00pm", "7:00pm", "7:00pm"]
 WEEKEND_SLOT_TIMES = ["11:00am", "11:00am", "5:00pm", "5:00pm"]
 WEEKEND_DAYS = {5, 6}
 SATURDAY_WEEKDAY_INDEX = 5
