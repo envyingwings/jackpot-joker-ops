@@ -269,6 +269,12 @@ def main():
         "calendar.html": build_calendar_page(data, args.days),
         "sunday-draws.html": build_sunday_draws_page(data),
         "competitions.html": build_competitions_page(data),
+        "index.html": (
+            '<!DOCTYPE html><html><head><meta charset="UTF-8">'
+            '<meta http-equiv="refresh" content="0; url=calendar.html">'
+            '<title>Redirecting...</title></head>'
+            '<body>Redirecting to <a href="calendar.html">the calendar</a>...</body></html>'
+        ),
     }
 
     for filename, html_content in pages.items():
