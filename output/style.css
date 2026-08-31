@@ -73,6 +73,30 @@ a:focus-visible, button:focus-visible { outline: 2px solid var(--gold-bright); o
 .nav-links a.active { color: var(--gold-bright); }
 .nav-links a:hover { color: var(--text); text-decoration: none; }
 
+.refresh-btn {
+  margin-left: auto;
+  background: transparent;
+  border: 1px solid var(--gold);
+  color: var(--gold-bright);
+  font-family: var(--font-display);
+  text-transform: uppercase;
+  font-size: 0.78rem;
+  letter-spacing: 0.03em;
+  padding: 0.4rem 0.9rem;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background 0.15s ease;
+}
+
+.refresh-btn:hover:not(:disabled) { background: rgba(201,162,39,0.12); }
+.refresh-btn:disabled { opacity: 0.5; cursor: default; }
+
+.refresh-status {
+  font-size: 0.78rem;
+  color: var(--text-dim);
+  max-width: 220px;
+}
+
 main { max-width: 1200px; margin: 0 auto; padding: 2rem; }
 
 h1 {

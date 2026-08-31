@@ -16,6 +16,8 @@
       <a href="sunday-draws.html" class="{{ 'active' if active == 'sunday' else '' }}">Sunday Draws</a>
       <a href="competitions.html" class="{{ 'active' if active == 'competitions' else '' }}">All Competitions</a>
     </nav>
+    <button id="refresh-btn" class="refresh-btn" type="button">↻ Refresh Now</button>
+    <span id="refresh-status" class="refresh-status"></span>
   </div>
   <main>
     {{ content }}
@@ -23,5 +25,68 @@
   <footer>
     Generated {{ generated_at }} · Read-only mirror, not connected to Obsidian.
   </footer>
+
+  <script>
+    (function () {
+      // These identify which repo/workflow to trigger - not secret, just config.
+      const OWNER = "envyingwings";
+      const REPO = "jackpot-joker-ops";
+      const WORKFLOW_FILE = "build.yml";
+      const REF = "main";
+
+      const btn = document.getElementById("refresh-btn");
+      const status = document.getElementById("refresh-status");
+
+      function getToken() {
+        let token = localStorage.getItem("gh_dispatch_token");
+        if (!token) {
+          token = prompt(
+            "Enter your GitHub fine-grained token (with Actions: write access to this repo).\n" +
+            "This is stored only in this browser's local storage, not sent anywhere except GitHub's API."
+          );
+          if (token) localStorage.setItem("gh_dispatch_token", token.trim());
+        }
+        return token;
+      }
+
+      btn.addEventListener("click", async function () {
+        const token = getToken();
+        if (!token) return;
+
+        btn.disabled = true;
+        status.textContent = "Triggering refresh...";
+
+        try {
+          const resp = await fetch(
+            `https://api.github.com/repos/${OWNER}/${REPO}/actions/workflows/${WORKFLOW_FILE}/dispatches`,
+            {
+              method: "POST",
+              headers: {
+                "Accept": "application/vnd.github+json",
+                "Authorization": `Bearer ${token}`,
+                "X-GitHub-Api-Version": "2026-03-10",
+              },
+              body: JSON.stringify({ ref: REF }),
+            }
+          );
+
+          if (resp.status === 204) {
+            status.textContent = "Refresh triggered — check back in ~1-2 minutes.";
+          } else if (resp.status === 401 || resp.status === 403) {
+            status.textContent = "Token rejected - clearing it, please try again.";
+            localStorage.removeItem("gh_dispatch_token");
+          } else {
+            status.textContent = `Unexpected response (${resp.status}) - see console.`;
+            console.error(await resp.text());
+          }
+        } catch (err) {
+          status.textContent = "Request failed - see console.";
+          console.error(err);
+        } finally {
+          btn.disabled = false;
+        }
+      });
+    })();
+  </script>
 </body>
 </html>
