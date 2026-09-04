@@ -152,7 +152,7 @@
       "note_filename": "new-winner-takes-it-all-an-incredible-ticket-bundle-drawn-when-full",
       "source": "https://jackpotjoker.co.uk/competitions/nnnew-winner-takes-it-all-an-incredible-ticket-bundle-drawn-when-full",
       "draw_date": "20/09/2026",
-      "status": "Active",
+      "status": "Inactive",
       "ticket_price": "5.00",
       "prize_value": "0.00",
       "categories": [],
@@ -167,7 +167,7 @@
       "note_filename": "new-ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
       "source": "https://jackpotjoker.co.uk/competitions/nnnnew-ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
       "draw_date": "06/09/2026",
-      "status": "Active",
+      "status": "Inactive",
       "ticket_price": "2.00",
       "prize_value": "0.00",
       "categories": [],
@@ -284,9 +284,9 @@
     {
       "title": "Ticket Takeover - win a huge ticket bundle into the competitions!",
       "note_filename": "ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
-      "source": "https://jackpotjoker.co.uk/competitions/ticket-takeover-wwin-a-huge-ticket-bundle-into-the-competitions",
+      "source": "https://jackpotjoker.co.uk/competitions/nnticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
       "draw_date": "06/09/2026",
-      "status": "Inactive",
+      "status": "Active",
       "ticket_price": "2.00",
       "prize_value": "0.00",
       "categories": [],
@@ -297,11 +297,11 @@
       "image_path": "/img/w=640,f=webp/competitions/20260720-164306-17f2f5a4-4fe6-4f5e-ad01-03c2e8dca57d.jpg"
     },
     {
-      "title": "Winner Takes it all \u2013 An incredible ticket bundle \u2013 Drawn when full",
+      "title": "Winner Takes it all \u2013 An incredible ticket bundle \u2013 Drawn when full!",
       "note_filename": "winner-takes-it-all-an-incredible-ticket-bundle-drawn-when-full",
-      "source": "https://jackpotjoker.co.uk/competitions/winner-takes-it-aall-an-incredible-ticket-bundle-drawn-when-full",
+      "source": "https://jackpotjoker.co.uk/competitions/winner-n-takes-it-all-an-incredible-ticket-bundle-drawn-when-full",
       "draw_date": "20/09/2026",
-      "status": "Inactive",
+      "status": "Active",
       "ticket_price": "5.00",
       "prize_value": "0.00",
       "categories": [],
@@ -366,5 +366,5 @@
       "image_path": "/img/w=1024,f=webp/competitions/20260720-164306-d849b85f-9993-40ae-8d45-865a6f699f1b.jpeg?v=3"
     }
   ],
-  "last_scraped": "2026-09-03T11:03:02.782490"
+  "last_scraped": "2026-09-04T11:04:20.720469"
 }
