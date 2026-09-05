@@ -148,11 +148,11 @@
       "image_path": "/img/w=640,f=webp/competitions/20260730-111825-fa86ec03-4e3c-4eac-8dda-be0e8fc9fba1.png?v=3"
     },
     {
-      "title": "New Winner Takes it all \u2013 An incredible ticket bundle \u2013 Drawn when full",
+      "title": "New Winner Takes it all \u2013 An incredible ticket bundle \u2013 Drawn when full!",
       "note_filename": "new-winner-takes-it-all-an-incredible-ticket-bundle-drawn-when-full",
-      "source": "https://jackpotjoker.co.uk/competitions/nnnew-winner-takes-it-all-an-incredible-ticket-bundle-drawn-when-full",
+      "source": "https://jackpotjoker.co.uk/competitions/bnnnew-winner-takes-it-all-an-incredible-ticket-bundle-drawn-when-full",
       "draw_date": "20/09/2026",
-      "status": "Inactive",
+      "status": "Active",
       "ticket_price": "5.00",
       "prize_value": "0.00",
       "categories": [],
@@ -284,7 +284,7 @@
     {
       "title": "Ticket Takeover - win a huge ticket bundle into the competitions!",
       "note_filename": "ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
-      "source": "https://jackpotjoker.co.uk/competitions/nnticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
+      "source": "https://jackpotjoker.co.uk/competitions/nnticket-takeover-win-a-huge-ticket-bundle-into-the-competitions-copy",
       "draw_date": "06/09/2026",
       "status": "Active",
       "ticket_price": "2.00",
@@ -301,7 +301,7 @@
       "note_filename": "winner-takes-it-all-an-incredible-ticket-bundle-drawn-when-full",
       "source": "https://jackpotjoker.co.uk/competitions/winner-n-takes-it-all-an-incredible-ticket-bundle-drawn-when-full",
       "draw_date": "20/09/2026",
-      "status": "Active",
+      "status": "Inactive",
       "ticket_price": "5.00",
       "prize_value": "0.00",
       "categories": [],
@@ -366,5 +366,5 @@
       "image_path": "/img/w=1024,f=webp/competitions/20260720-164306-d849b85f-9993-40ae-8d45-865a6f699f1b.jpeg?v=3"
     }
   ],
-  "last_scraped": "2026-09-04T11:04:20.720469"
+  "last_scraped": "2026-09-05T10:25:51.418104"
 }
