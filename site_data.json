@@ -152,7 +152,7 @@
       "note_filename": "new-winner-takes-it-all-an-incredible-ticket-bundle-drawn-when-full",
       "source": "https://jackpotjoker.co.uk/competitions/bnnnew-winner-takes-it-all-an-incredible-ticket-bundle-drawn-when-full-copy",
       "draw_date": "20/09/2026",
-      "status": "Active",
+      "status": "Inactive",
       "ticket_price": "5.00",
       "prize_value": "0.00",
       "categories": [],
@@ -299,9 +299,9 @@
     {
       "title": "Winner Takes it all \u2013 An incredible ticket bundle \u2013 Drawn when full!",
       "note_filename": "winner-takes-it-all-an-incredible-ticket-bundle-drawn-when-full",
-      "source": "https://jackpotjoker.co.uk/competitions/winner-n-takes-it-all-an-incredible-ticket-bundle-drawn-when-full",
+      "source": "https://jackpotjoker.co.uk/competitions/newwinner-takes-it-all-an-incredible-ticket-bundle-drawn-when-full",
       "draw_date": "20/09/2026",
-      "status": "Inactive",
+      "status": "Active",
       "ticket_price": "5.00",
       "prize_value": "0.00",
       "categories": [],
@@ -364,7 +364,25 @@
       ],
       "description": "\u2615 Ninja Perfect Temperature Kettle \u2013 Precision Brewing Made Easy\u00a0\r\n\r\nEnjoy every hot drink at its best with the\u00a0Ninja Perfect Temperature Kettle. \ud83c\udf75\u2615 Designed for tea lovers, coffee enthusiasts and everyday convenience, this stylish\u00a01.7L kettle\u00a0features\u00a0six pre-set temperature settings\u00a0from\u00a060\u00b0C to 100\u00b0C, allowing you to brew everything from delicate green teas to rich coffees and hot chocolate at the ideal temperature.\r\n\r\n\u26a1 The powerful\u00a03000W rapid boil\u00a0function heats one cup in\u00a0under 50 seconds, while the digital display provides a real-time temperature readout. The convenient\u00a0Hold Temp\u00a0function keeps water at your chosen temperature for up to\u00a030 minutes, so you can enjoy a second cup without waiting for the kettle to reboil.\r\n\r\n\u2728 Finished with a sleek modern design, the Ninja Perfect Temperature Kettle also includes a removable limescale filter, illuminated water window and easy-to-use controls, making it a practical and stylish addition to any kitchen. \ud83c\udfe1",
       "image_path": "/img/w=1024,f=webp/competitions/20260720-164306-d849b85f-9993-40ae-8d45-865a6f699f1b.jpeg?v=3"
+    },
+    {
+      "title": "New WIn a Shark UltraCyclone Pro Classic Handheld Vacuum Cleaner",
+      "note_filename": "new-win-a-shark-ultracyclone-pro-classic-handheld-vacuum-cleaner",
+      "source": "https://jackpotjoker.co.uk/competitions/nnnew-win-a-shark-ultracyclone-pro-classic-handheld-vacuum-cleaner-copy",
+      "draw_date": "27/09/2026",
+      "status": "Active",
+      "ticket_price": "0.10",
+      "prize_value": "0.00",
+      "categories": [
+        "Tech"
+      ],
+      "tags": [
+        "competition",
+        "Tech"
+      ],
+      "description": "WIn a Shark UltraCyclone Pro Classic Handheld Vacuum Cleaner\n\nFast, easy, convenient cleaning \u2013 whenever and wherever you need it. The Shark CH901UK Cordless Handheld Vacuum is lightweight and designed for fast, easy cleaning. Easily remove crumbs, dust and debris from worktops, tables, soft furnishings and hard-to-reach areas with the Dusting Brush and Crevice Tool. Enjoy up to 10 minutes of run-time per charge. Effortlessly dispose of debris thanks to the one-touch easy empty dust cup.\n\nConvenient cleaning \u2013 Great for on-the-spot cleans, this lightweight, portable vacuum is designed to clean up everyday dust, debris, crumbs and pet hair.\n\nIncludes 2 attachments \u2013 From surfaces to stairs, curtains to the car, easily clean hard-to-reach areas with the Dusting Brush and Crevice Tool.\n\nLong-Lasting performance - The washable filter is easy to clean for suction that lasts. Effortlessly dispose of debris thanks to the one-touch easy empty dust cup.\n\n7.2 volts.\n\n10 mins running time on full charge.\n\nCharging time: 240 minutes.\n\nLow battery indicator.\n\nIdeal for pet hair.\n\nVariable power.\n\nTotal capacity 0.5 litre.\n\nDustbin full indicator.\n\nHEPA filter - traps small particles and pet dander, making it excellent for allergy sufferers.\n\nCrevice Tool Scrubbing Brush.\n\nSize H9, W10, D44cm.\n\nWeight 1.02kg.\n\nManufacturer's 2 years on registration guarantee.",
+      "image_path": "/img/w=640,f=webp/competitions/20260805-112944-2fc5cc0e-7a8b-474c-83f1-2a68656280ed.jpg?v=3"
     }
   ],
-  "last_scraped": "2026-09-09T11:09:24.675251"
+  "last_scraped": "2026-09-10T11:05:30.792709"
 }
