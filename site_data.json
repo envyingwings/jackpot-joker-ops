@@ -58,7 +58,7 @@
       "note_filename": "win-a-holiday-to-costa-adeje-tenerife-flights-for-2-people-plus-luxury-apartment-that-sleeps-upto-6-for-1",
       "source": "https://jackpotjoker.co.uk/competitions/win-a-holiday-to-costa-adeje-tenerife-flights-for-2-people-plus-luxury-apartment-that-sleeps-upto-6-for-1",
       "draw_date": "13/09/2026",
-      "status": "Active",
+      "status": "Inactive",
       "ticket_price": "1.00",
       "prize_value": "1200.00",
       "categories": [
@@ -114,7 +114,7 @@
       "note_filename": "win-a-shark-ultracyclone-pro-classic-handheld-vacuum-cleaner",
       "source": "https://jackpotjoker.co.uk/competitions/win-a-shark-ultracyclone-pro-classic-handheld-vacuum-cleaner-copy-copy-copy",
       "draw_date": "13/09/2026",
-      "status": "Active",
+      "status": "Inactive",
       "ticket_price": "0.10",
       "prize_value": "0.00",
       "categories": [
@@ -233,7 +233,7 @@
       "note_filename": "win-an-au-vodka-gift-set-or-48-beers-free-entry-by-commenting-on-our-fb-competition-group-posts",
       "source": "https://jackpotjoker.co.uk/competitions/win-an-au-vodka-gift-sets-or-48-beers-free-entry-by-commenting-on-our-fb-competition-group-posts-copy-copy-copy",
       "draw_date": "13/09/2026",
-      "status": "Active",
+      "status": "Inactive",
       "ticket_price": "0.50",
       "prize_value": "50.00",
       "categories": [],
@@ -352,7 +352,7 @@
       "note_filename": "ninja-perfect-temperature-kettle",
       "source": "https://jackpotjoker.co.uk/competitions/ninja-perfect-temperature-kettle-copy",
       "draw_date": "13/09/2026",
-      "status": "Active",
+      "status": "Inactive",
       "ticket_price": "0.02",
       "prize_value": "70.00",
       "categories": [
@@ -402,5 +402,5 @@
       "image_path": "/img/w=640,f=webp/competitions/20260913-194451-6a2b9073-878a-44b0-84c8-0b0a1553e47d.jpg?v=3"
     }
   ],
-  "last_scraped": "2026-09-13T19:16:01.886009"
+  "last_scraped": "2026-09-14T08:52:34.713385"
 }
