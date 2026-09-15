@@ -299,9 +299,9 @@
     {
       "title": "Winner Takes it all \u2013 An incredible ticket bundle \u2013 Drawn when full!",
       "note_filename": "winner-takes-it-all-an-incredible-ticket-bundle-drawn-when-full",
-      "source": "https://jackpotjoker.co.uk/competitions/newwinner-takes-it-all-an-incredible-ticket-bundle-drawn-when-full",
+      "source": "https://jackpotjoker.co.uk/competitions/nnwinner-takes-it-all-an-incredible-ticket-bundle-drawn-when-full",
       "draw_date": "20/09/2026",
-      "status": "Inactive",
+      "status": "Active",
       "ticket_price": "5.00",
       "prize_value": "0.00",
       "categories": [],
@@ -399,8 +399,43 @@
         "Tech"
       ],
       "description": "Win a Rug Doctor Cordless Hard Floor Cleaner for 2p",
-      "image_path": "/img/w=640,f=webp/competitions/20260913-194451-6a2b9073-878a-44b0-84c8-0b0a1553e47d.jpg?v=3"
+      "image_path": "/img/w=640,f=webp/competitions/20260914-183455-f020c0ea-7125-45ee-873c-f6a4d8b69f11.png?v=3"
+    },
+    {
+      "title": "A night at the darts Rotherham - 2 pairs of tickets to be won",
+      "note_filename": "a-night-at-the-darts-rotherham-2-pairs-of-tickets-to-be-won",
+      "source": "https://jackpotjoker.co.uk/competitions/a-night-at-the-darts-rotherham-2-pairs-of-tickets-to-be-won-copy",
+      "draw_date": "20/09/2026",
+      "status": "Active",
+      "ticket_price": "2.50",
+      "prize_value": "200.00",
+      "categories": [],
+      "tags": [
+        "competition"
+      ],
+      "description": "\ud83c\udfaf\ud83d\udd25 DARTS FANS, THIS ONE\u2019S FOR YOU! \ud83d\udd25\ud83c\udfaf\n\nFancy a proper night out watching some of the biggest names in darts LIVE? Well, we\u2019ve got 2 PAIRS OF TICKETS up for grabs! \ud83c\udccf\ud83c\udfaf\n\n\ud83d\udccd MAGNA, ROTHERHAM\n\ud83d\udcc5 FRIDAY 25TH SEPTEMBER\n\nYou could be watching the likes of:\n\n\ud83c\udfaf LUKE LITTLER\n\ud83c\udfaf LUKE HUMPHRIES\n\ud83c\udfaf STEPHEN BUNTING\n\ud83c\udfaf GLEN DURRANT\n\nAnd the best bit? \ud83d\ude0f\n\n\ud83d\udcb0 JUST \u00a32.50 PER TICKET!\n\n\ud83c\udfc6 2 WINNERS\n\ud83c\udf9f\ufe0f EACH WINNER TAKES HOME A PAIR OF TICKETS!\n\n\ud83c\udf7b Darts. Big names. Proper atmosphere. And hopefully a few pints thrown in for good measure! \ud83d\ude02\n\n\u23f0 DRAWN THIS SUNDAY!\n\nGet your tickets in, cross everything and get ready for a night at the oche! \ud83c\udfaf\ud83d\udd25\n\nJACKPOT JOKER \u2014 YOU\u2019VE GOTTA BE IN IT TO WIN IT! \ud83c\udccf",
+      "image_path": "/img/w=1024,f=webp/competitions/20260915-090342-e126e26f-238a-4a3f-a806-ecee8dc5888a.jpeg?v=3"
+    },
+    {
+      "title": "100% Tenerife - Win \u00a3100 Tickets into our Tenerife Holiday Draw (2 Winners Drawn)",
+      "note_filename": "100-tenerife-win-100-tickets-into-our-tenerife-holiday-draw-2-winners-drawn",
+      "source": "https://jackpotjoker.co.uk/competitions/100-tenerife-win-100-tickets-into-our-tenerife-holiday-draw-2-winners-drawn",
+      "draw_date": "11/10/2026",
+      "status": "Active",
+      "ticket_price": "5.00",
+      "prize_value": "200.00",
+      "categories": [
+        "Instant Wins",
+        "Holiday"
+      ],
+      "tags": [
+        "competition",
+        "Instant-Wins",
+        "Holiday"
+      ],
+      "description": "100% Tenerife - Win \u00a3100 Tickets into our Tenerife Holiday Draw (2 Winners Drawn)",
+      "image_path": "/img/w=640,f=webp/competitions/20260914-144035-a997f40e-4240-4958-b79f-a18be3f58214.png?v=3"
     }
   ],
-  "last_scraped": "2026-09-14T12:30:18.599497"
+  "last_scraped": "2026-09-15T11:33:23.736093"
 }
