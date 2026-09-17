@@ -286,7 +286,7 @@
       "note_filename": "ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
       "source": "https://jackpotjoker.co.uk/competitions/ticket-takeovers-win-a-huge-ticket-bundle-into-the-competitions-copy",
       "draw_date": "25/10/2026",
-      "status": "Active",
+      "status": "Inactive",
       "ticket_price": "2.00",
       "prize_value": "0.00",
       "categories": [],
@@ -437,5 +437,5 @@
       "image_path": "/img/w=640,f=webp/competitions/20260914-144035-a997f40e-4240-4958-b79f-a18be3f58214.png?v=3"
     }
   ],
-  "last_scraped": "2026-09-16T11:19:50.759174"
+  "last_scraped": "2026-09-17T11:28:11.502988"
 }
