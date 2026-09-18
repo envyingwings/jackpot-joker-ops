@@ -301,7 +301,7 @@
       "note_filename": "winner-takes-it-all-an-incredible-ticket-bundle-drawn-when-full",
       "source": "https://jackpotjoker.co.uk/competitions/nnwinner-takes-it-all-an-incredible-ticket-bundle-drawn-when-full",
       "draw_date": "20/09/2026",
-      "status": "Active",
+      "status": "Inactive",
       "ticket_price": "5.00",
       "prize_value": "0.00",
       "categories": [],
@@ -435,7 +435,42 @@
       ],
       "description": "100% Tenerife - Win \u00a3100 Tickets into our Tenerife Holiday Draw (2 Winners Drawn)",
       "image_path": "/img/w=640,f=webp/competitions/20260914-144035-a997f40e-4240-4958-b79f-a18be3f58214.png?v=3"
+    },
+    {
+      "title": "Newest Winner Takes it all \u2013 An incredible ticket bundle \u2013 Drawn when full!",
+      "note_filename": "newest-winner-takes-it-all-an-incredible-ticket-bundle-drawn-when-full",
+      "source": "https://jackpotjoker.co.uk/competitions/newest-winner-takes-it-all-an-incredible-ticket-bundle-drawn-when-full",
+      "draw_date": "20/09/2026",
+      "status": "Active",
+      "ticket_price": "5.00",
+      "prize_value": "0.00",
+      "categories": [],
+      "tags": [
+        "competition"
+      ],
+      "description": "Win An incredible Ticket bundle into all the top Competitions",
+      "image_path": "/img/w=640,f=webp/competitions/20260720-164306-8a8ae887-d0eb-4bad-914c-cadd0130191d.jpg"
+    },
+    {
+      "title": "Jokers Tech & Toys Takeaway - \u00a315000 In Prizes to be won instantly",
+      "note_filename": "jokers-tech-toys-takeaway-15000-in-prizes-to-be-won-instantly",
+      "source": "https://jackpotjoker.co.uk/competitions/jokers-tech-toys-takeaway-15000-in-prizes-to-be-won-instantly",
+      "draw_date": "20/12/2026",
+      "status": "Active",
+      "ticket_price": "1.00",
+      "prize_value": "0.00",
+      "categories": [
+        "Tech",
+        "Instant Wins"
+      ],
+      "tags": [
+        "competition",
+        "Tech",
+        "Instant-Wins"
+      ],
+      "description": "Jokers Tech & Toys Takeaway - \u00a315000 In Prizes to be won instantly",
+      "image_path": "/img/w=640,f=webp/competitions/20260918-094526-b9223011-1b5c-446f-aefe-c58014fb4d56.jpg?v=3"
     }
   ],
-  "last_scraped": "2026-09-17T11:28:11.502988"
+  "last_scraped": "2026-09-18T11:01:29.367995"
 }
