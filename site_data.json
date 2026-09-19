@@ -231,9 +231,9 @@
     {
       "title": "Win an AU Vodka Gift Set Or 48 Beers - Free Entry by Commenting On Our FB Competition Group Posts",
       "note_filename": "win-an-au-vodka-gift-set-or-48-beers-free-entry-by-commenting-on-our-fb-competition-group-posts",
-      "source": "https://jackpotjoker.co.uk/competitions/win-an-au-vodka-gift-sets-or-48-beers-free-entry-by-commenting-on-our-fb-competition-group-posts-copy-copy-copy",
-      "draw_date": "13/09/2026",
-      "status": "Inactive",
+      "source": "https://jackpotjoker.co.uk/competitions/win-an-au-vodka-gift-sets-or-48-beers-free-entry-by-commenting-on-our-fb-competition-group-posts-copy-copy-copy-copy",
+      "draw_date": "04/10/2026",
+      "status": "Active",
       "ticket_price": "0.50",
       "prize_value": "50.00",
       "categories": [],
@@ -299,9 +299,9 @@
     {
       "title": "Winner Takes it all \u2013 An incredible ticket bundle \u2013 Drawn when full!",
       "note_filename": "winner-takes-it-all-an-incredible-ticket-bundle-drawn-when-full",
-      "source": "https://jackpotjoker.co.uk/competitions/nnwinner-takes-it-all-an-incredible-ticket-bundle-drawn-when-full",
+      "source": "https://jackpotjoker.co.uk/competitions/nnnwinner-takes-it-all-an-incredible-ticket-bundle-drawn-when-full",
       "draw_date": "20/09/2026",
-      "status": "Inactive",
+      "status": "Active",
       "ticket_price": "5.00",
       "prize_value": "0.00",
       "categories": [],
@@ -441,7 +441,7 @@
       "note_filename": "newest-winner-takes-it-all-an-incredible-ticket-bundle-drawn-when-full",
       "source": "https://jackpotjoker.co.uk/competitions/newest-winner-takes-it-all-an-incredible-ticket-bundle-drawn-when-full",
       "draw_date": "20/09/2026",
-      "status": "Active",
+      "status": "Inactive",
       "ticket_price": "5.00",
       "prize_value": "0.00",
       "categories": [],
@@ -472,5 +472,5 @@
       "image_path": "/img/w=640,f=webp/competitions/20260918-094526-b9223011-1b5c-446f-aefe-c58014fb4d56.jpg?v=3"
     }
   ],
-  "last_scraped": "2026-09-18T11:01:29.367995"
+  "last_scraped": "2026-09-19T10:44:55.501133"
 }
