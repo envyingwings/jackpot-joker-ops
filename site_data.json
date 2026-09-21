@@ -150,8 +150,8 @@
     {
       "title": "NEW Winner Takes it all \u2013 An incredible ticket bundle \u2013 Drawn when full!",
       "note_filename": "new-winner-takes-it-all-an-incredible-ticket-bundle-drawn-when-full",
-      "source": "https://jackpotjoker.co.uk/competitions/nnnnew-winner-takes-it-all-an-incredible-ticket-bundle-drawn-when-full",
-      "draw_date": "20/09/2026",
+      "source": "https://jackpotjoker.co.uk/competitions/nnnnew-winner-takes-it-all-an-incredible-ticket-bundle-drawn-when-full-copy",
+      "draw_date": "20/09/2027",
       "status": "Active",
       "ticket_price": "5.00",
       "prize_value": "0.00",
@@ -334,7 +334,7 @@
       "note_filename": "win-a-shark-powerdetect-clean-empty-cordless-pet-vacuum-cleaner-ip3251ukt",
       "source": "https://jackpotjoker.co.uk/competitions/win-a-shark-powerdetect-clean-empty-cordless-pet-vacuum-cleaner-ip3251ukt-copy",
       "draw_date": "20/09/2026",
-      "status": "Active",
+      "status": "Inactive",
       "ticket_price": "2.00",
       "prize_value": "0.00",
       "categories": [
@@ -388,7 +388,7 @@
       "note_filename": "win-a-rug-doctor-cordless-hard-floor-cleaner-2p",
       "source": "https://jackpotjoker.co.uk/competitions/win-a-rug-docter-cordless-hard-floor-cleaner-2p",
       "draw_date": "20/09/2026",
-      "status": "Active",
+      "status": "Inactive",
       "ticket_price": "0.02",
       "prize_value": "150.00",
       "categories": [
@@ -406,7 +406,7 @@
       "note_filename": "a-night-at-the-darts-rotherham-2-pairs-of-tickets-to-be-won",
       "source": "https://jackpotjoker.co.uk/competitions/a-night-at-the-darts-rotherham-2-pairs-of-tickets-to-be-won-copy",
       "draw_date": "20/09/2026",
-      "status": "Active",
+      "status": "Inactive",
       "ticket_price": "2.50",
       "prize_value": "200.00",
       "categories": [],
@@ -470,7 +470,40 @@
       ],
       "description": "Jokers Tech & Toys Takeaway - \u00a315000 In Prizes to be won instantly",
       "image_path": "/img/w=640,f=webp/competitions/20260918-094526-b9223011-1b5c-446f-aefe-c58014fb4d56.jpg?v=3"
+    },
+    {
+      "title": "WIn a Xiaomi Mijia Semi Automatic espresso coffee machine",
+      "note_filename": "win-a-xiaomi-mijia-semi-automatic-espresso-coffee-machine",
+      "source": "https://jackpotjoker.co.uk/competitions/winwin-a-xiaomi-mijia-semi-automatic-espresso-coffee-machine-copy-copy",
+      "draw_date": "04/10/2026",
+      "status": "Active",
+      "ticket_price": "0.02",
+      "prize_value": "100.00",
+      "categories": [
+        "Tech"
+      ],
+      "tags": [
+        "competition",
+        "Tech"
+      ],
+      "description": "Xiaomi Mijia Semi-Automatic Espresso Machine CME003 - 20 Bar 1350W Compact\n--------------------------------------\n\nUpgrade your morning routine with the sleek, high-performance Xiaomi Mijia Semi-Automatic Espresso Machine (Model: CME003)!\nBring the cafe experience directly to your kitchen with barista-quality espresso, cappuccinos, lattes, and more.\nFeaturing a powerful 20-bar pressure pump and precise NTC temperature control, this ultra-compact, 14cm-wide stainless steel machine delivers rich extraction and professional crema without cluttering your countertop.\n\n\u2728 Key Features\n\n\u202220-Bar High-Pressure Extraction: Professional-grade pump system ensures stable extraction for thick, perfect crema every single time.\n\n\u2022Low-Pressure Pre-Infusion: Professionally saturates the coffee grounds evenly before full extraction to release the deepest coffee aromas.\n\n\u2022Smart Touchscreen Interface:\nSuper simple operation with single-cup (40ml), double-cup (80ml), and custom volume settings.\n\n\u2022Powerful Rotary Steam Wand:\nEasily textures dense, silky smooth milk micro-foam for beautiful latte art and creamy cappuccinos.\n\n\u2022Ultra-Slim & Premium Build:\nStriking fingerprint-resistant stainless steel body that stands just 14cm wide to fit beautifully into any kitchen or office corner.\n\n\u2022Built-In Cup Warmer:\nStainless steel warming platform on top lets you pre-heat your espresso cups just like a professional cafe.",
+      "image_path": "/img/w=1024,f=webp/competitions/20260920-195601-a1b6cfa2-ea79-4606-a4b7-9ce3c38e6670.jpeg?v=3"
+    },
+    {
+      "title": "Win a Gucci Dive black dial mens Swiss watch",
+      "note_filename": "win-a-gucci-dive-black-dial-mens-swiss-watch",
+      "source": "https://jackpotjoker.co.uk/competitions/win-a-gucci-dive-black-dial-mens-swiss-watch",
+      "draw_date": "25/10/2026",
+      "status": "Active",
+      "ticket_price": "2.50",
+      "prize_value": "400.00",
+      "categories": [],
+      "tags": [
+        "competition"
+      ],
+      "description": "Model: YA136310Brand Origin: Swiss MadeCase Material: Stainless SteelCase Shape: RoundCase Diameter: 40mmCase Thickness: 11.5mmCase Back: SolidBezel: Uni-Directional RotatingCrystal: Scratch Resistant SapphireCrown: Screw DownDial Color: GreenDial Description: Silver-tone hands and Dot hour markers with minute markers around the outer rim on a Black DialDial Markers: CircleHand Color: SilverCalendar: Date at 6 o'clockFunctions: Date, Hour, Minute, SecondMovement: Battery Operated QuartzBand Material: RubberBand Color: GreenBand Description: Green RubberClasp Type: Deployment with FoldoverWater Resistant: 200 Meters - 660 FeetUPC: 731903385252",
+      "image_path": "/img/w=640,f=webp/competitions/20260920-151443-bb7b5db9-888d-4d61-a86b-2dba451c86d1.jpeg?v=3"
     }
   ],
-  "last_scraped": "2026-09-20T11:08:28.789224"
+  "last_scraped": "2026-09-21T12:36:33.223185"
 }
