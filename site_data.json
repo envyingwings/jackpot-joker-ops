@@ -165,9 +165,9 @@
     {
       "title": "New Ticket Takeover - win a huge ticket bundle into the competitions!",
       "note_filename": "new-ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
-      "source": "https://jackpotjoker.co.uk/competitions/nnnnewnew-ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
+      "source": "https://jackpotjoker.co.uk/competitions/nnnnnew-ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
       "draw_date": "25/10/2026",
-      "status": "Inactive",
+      "status": "Active",
       "ticket_price": "2.00",
       "prize_value": "0.00",
       "categories": [],
@@ -286,7 +286,7 @@
       "note_filename": "ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
       "source": "https://jackpotjoker.co.uk/competitions/nnbticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
       "draw_date": "25/10/2026",
-      "status": "Active",
+      "status": "Inactive",
       "ticket_price": "2.00",
       "prize_value": "0.00",
       "categories": [],
@@ -299,9 +299,9 @@
     {
       "title": "Winner Takes it all \u2013 An incredible ticket bundle \u2013 Drawn when full!",
       "note_filename": "winner-takes-it-all-an-incredible-ticket-bundle-drawn-when-full",
-      "source": "https://jackpotjoker.co.uk/competitions/nnnwinner-takes-it-all-an-incredible-ticket-bundle-drawn-when-full",
-      "draw_date": "20/09/2026",
-      "status": "Inactive",
+      "source": "https://jackpotjoker.co.uk/competitions/nnnnwinner-takes-it-all-an-incredible-ticket-bundle-drawn-when-full",
+      "draw_date": "20/09/2027",
+      "status": "Active",
       "ticket_price": "5.00",
       "prize_value": "0.00",
       "categories": [],
@@ -505,5 +505,5 @@
       "image_path": "/img/w=640,f=webp/competitions/20260920-151443-bb7b5db9-888d-4d61-a86b-2dba451c86d1.jpeg?v=3"
     }
   ],
-  "last_scraped": "2026-09-21T12:36:33.223185"
+  "last_scraped": "2026-09-22T11:23:40.559948"
 }
