@@ -150,9 +150,9 @@
     {
       "title": "NEW Winner Takes it all \u2013 An incredible ticket bundle \u2013 Drawn when full!",
       "note_filename": "new-winner-takes-it-all-an-incredible-ticket-bundle-drawn-when-full",
-      "source": "https://jackpotjoker.co.uk/competitions/nnnnew-winner-takes-it-all-an-incredible-ticket-bundle-drawn-when-full-copy",
+      "source": "https://jackpotjoker.co.uk/competitions/annnnew-winner-takes-it-all-an-incredible-ticket-bundle-drawn-when-full",
       "draw_date": "20/09/2027",
-      "status": "Inactive",
+      "status": "Active",
       "ticket_price": "5.00",
       "prize_value": "0.00",
       "categories": [],
@@ -167,7 +167,7 @@
       "note_filename": "new-ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
       "source": "https://jackpotjoker.co.uk/competitions/nnnewnn-ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
       "draw_date": "25/10/2026",
-      "status": "Active",
+      "status": "Inactive",
       "ticket_price": "2.00",
       "prize_value": "0.00",
       "categories": [],
@@ -284,9 +284,9 @@
     {
       "title": "Ticket Takeover - win a huge ticket bundle into the competitions!",
       "note_filename": "ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
-      "source": "https://jackpotjoker.co.uk/competitions/nnnticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
+      "source": "https://jackpotjoker.co.uk/competitions/nnnnticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
       "draw_date": "25/10/2026",
-      "status": "Inactive",
+      "status": "Active",
       "ticket_price": "2.00",
       "prize_value": "0.00",
       "categories": [],
@@ -301,7 +301,7 @@
       "note_filename": "winner-takes-it-all-an-incredible-ticket-bundle-drawn-when-full",
       "source": "https://jackpotjoker.co.uk/competitions/nnnnwinner-takes-it-all-an-incredible-ticket-bundle-drawn-when-full",
       "draw_date": "20/09/2027",
-      "status": "Active",
+      "status": "Inactive",
       "ticket_price": "5.00",
       "prize_value": "0.00",
       "categories": [],
@@ -543,5 +543,5 @@
       "image_path": "/img/w=640,f=webp/competitions/20260924-160555-e4245178-9713-4b84-9685-a36c697ebfe9.webp?v=3"
     }
   ],
-  "last_scraped": "2026-09-25T11:39:38.230053"
+  "last_scraped": "2026-09-26T11:13:06.196426"
 }
