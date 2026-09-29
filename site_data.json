@@ -163,11 +163,11 @@
       "image_path": "/img/w=640,f=webp/competitions/20260720-164306-8a8ae887-d0eb-4bad-914c-cadd0130191d.jpg"
     },
     {
-      "title": "New Ticket Takeover - win a huge ticket bundle into the competitions!",
+      "title": "NEW Ticket Takeover - win a huge ticket bundle into the competitions!",
       "note_filename": "new-ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
-      "source": "https://jackpotjoker.co.uk/competitions/nnnewnn-ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
+      "source": "https://jackpotjoker.co.uk/competitions/newnewnew-ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
       "draw_date": "25/10/2026",
-      "status": "Inactive",
+      "status": "Active",
       "ticket_price": "2.00",
       "prize_value": "0.00",
       "categories": [],
@@ -286,7 +286,7 @@
       "note_filename": "ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
       "source": "https://jackpotjoker.co.uk/competitions/ticketnn-takeover-win-a-huge-ticket-bundle-into-the-competitions",
       "draw_date": "25/10/2026",
-      "status": "Active",
+      "status": "Inactive",
       "ticket_price": "2.00",
       "prize_value": "0.00",
       "categories": [],
@@ -577,7 +577,25 @@
       ],
       "description": "Win a GHD Duet Blowdry 2-in-1 Brush Dryer Set with Case & Paddle Brush Limited Edition",
       "image_path": "/img/w=640,f=webp/competitions/20260927-184227-755d527c-d09f-4ac3-991e-92a17acf11bf.webp?v=3"
+    },
+    {
+      "title": "Win a ninja cafe luxe premier coffee machine",
+      "note_filename": "win-a-ninja-cafe-luxe-premier-coffee-machine",
+      "source": "https://jackpotjoker.co.uk/competitions/win-a-ninja-cafe-luxe-premier-coffee-machine",
+      "draw_date": "11/10/2026",
+      "status": "Active",
+      "ticket_price": "2.00",
+      "prize_value": "0.00",
+      "categories": [
+        "Tech"
+      ],
+      "tags": [
+        "competition",
+        "Tech"
+      ],
+      "description": "Meet\u00a0Luxe Caf\u00e9 Premier, the bean-to-cup Ninja coffee machine that helps you make barista-quality drinks in minutes. This versatile 3-in-1 espresso, cold brew and filter coffee machine takes the guesswork out of coffee and includes a built-in grinder for extra convenience",
+      "image_path": "/img/w=640,f=webp/competitions/20260928-192637-7e13d2f2-678a-4239-badd-510c89cfe2e5.jpeg?v=3"
     }
   ],
-  "last_scraped": "2026-09-28T13:37:01.359171"
+  "last_scraped": "2026-09-29T12:37:25.575560"
 }
