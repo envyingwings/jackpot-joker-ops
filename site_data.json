@@ -167,7 +167,7 @@
       "note_filename": "new-ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
       "source": "https://jackpotjoker.co.uk/competitions/tnewnewnew-ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
       "draw_date": "29/11/2026",
-      "status": "Active",
+      "status": "Inactive",
       "ticket_price": "2.00",
       "prize_value": "0.00",
       "categories": [
@@ -236,7 +236,7 @@
       "note_filename": "win-an-au-vodka-gift-set-or-48-beers-free-entry-by-commenting-on-our-fb-competition-group-posts",
       "source": "https://jackpotjoker.co.uk/competitions/win-an-au-vodka-gift-sets-or-48-beers-free-entry-by-commenting-on-our-fb-competition-group-posts-copy-copy-copy-copy",
       "draw_date": "04/10/2026",
-      "status": "Active",
+      "status": "Inactive",
       "ticket_price": "0.50",
       "prize_value": "50.00",
       "categories": [],
@@ -287,9 +287,9 @@
     {
       "title": "Ticket Takeover - win a huge ticket bundle into the competitions!",
       "note_filename": "ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
-      "source": "https://jackpotjoker.co.uk/competitions/newicket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
+      "source": "https://jackpotjoker.co.uk/competitions/nnnnticketn-takeover-win-a-huge-ticket-bundle-into-the-competitions",
       "draw_date": "29/11/2026",
-      "status": "Inactive",
+      "status": "Active",
       "ticket_price": "2.00",
       "prize_value": "0.00",
       "categories": [
@@ -571,7 +571,7 @@
       "note_filename": "win-a-ghd-duet-blowdry-2-in-1-brush-dryer-set-with-case-paddle-brush-limited-edition",
       "source": "https://jackpotjoker.co.uk/competitions/win-a-ghd-duet-blowdry-2-in-1-brush-dryer-set-with-case-paddle-brush-limited-edition",
       "draw_date": "04/10/2026",
-      "status": "Active",
+      "status": "Inactive",
       "ticket_price": "0.10",
       "prize_value": "450.00",
       "categories": [
@@ -654,5 +654,5 @@
       "image_path": "/img/w=640,f=webp/games/20261001-191633-aab580bc-c90a-4044-820c-fb1017066cb5.png?v=3"
     }
   ],
-  "last_scraped": "2026-10-04T12:11:04.911245"
+  "last_scraped": "2026-10-05T14:20:54.703044"
 }
