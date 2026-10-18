@@ -165,9 +165,9 @@
     {
       "title": "NEW Ticket Takeover - win a huge ticket bundle into the competitions!",
       "note_filename": "new-ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
-      "source": "https://jackpotjoker.co.uk/competitions/mnew-ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
+      "source": "https://jackpotjoker.co.uk/competitions/pnew-ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
       "draw_date": "29/11/2026",
-      "status": "Inactive",
+      "status": "Active",
       "ticket_price": "2.00",
       "prize_value": "0.00",
       "categories": [
@@ -289,7 +289,7 @@
       "note_filename": "ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
       "source": "https://jackpotjoker.co.uk/competitions/xticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
       "draw_date": "29/11/2026",
-      "status": "Active",
+      "status": "Inactive",
       "ticket_price": "2.00",
       "prize_value": "0.00",
       "categories": [
@@ -667,7 +667,25 @@
       ],
       "description": "\ud83c\udfb8 OASIS LIVE AT KNEBWORTH 2027! \ud83c\udfb8\n\n\ud83d\udd25 TICKETS LIKE GOLD DUST! \ud83d\udd25\n\nFancy seeing Oasis live at Knebworth on Sunday 26th September 2027?! \ud83c\udf4b\ud83c\udfb6\n\nThis one is SOLD OUT \u2014 but we\u2019ve got your chance to win a PAIR OF TICKETS to one of the biggest gigs of 2027! \ud83e\udd18\n\n\ud83d\udca5 JUST 35p PER ENTRY! \ud83d\udca5\n\nAnd that\u2019s not all\u2026\n\n\ud83d\udc55 WINNER ALSO GETS 2 x Adidas x Oasis T-shirts \ud83d\udc55\nSo you can turn up looking the part! \ud83d\ude0e\n\n\ud83c\udf9f\ufe0f PAIR OF OASIS KNEBWORTH TICKETS\n\ud83d\udc55 2 x Adidas x Oasis T-shirts\n\ud83d\udcb0 Just 35p per entry\n\ud83d\udd25 SOLD OUT EVENT \u2014 TICKETS LIKE GOLD DUST!\n\nDon\u2019t Look Back in Anger\u2026 get your entries in! \ud83c\udfb6\ud83c\udf4b",
       "image_path": "/img/w=640,f=webp/competitions/20261006-143729-163144a8-8489-4e28-acde-4b3181bd6012.jpeg?v=3"
+    },
+    {
+      "title": "Win a TCL French-Style Fridge Freezer",
+      "note_filename": "win-a-tcl-french-style-fridge-freezer",
+      "source": "https://jackpotjoker.co.uk/competitions/win-a-tcl-french-style-fridge-freezer",
+      "draw_date": "13/12/2026",
+      "status": "Active",
+      "ticket_price": "0.10",
+      "prize_value": "0.00",
+      "categories": [
+        "Tech"
+      ],
+      "tags": [
+        "competition",
+        "Tech"
+      ],
+      "description": "Win a TCL French-Style Fridge Freezer",
+      "image_path": "/img/w=640,f=webp/competitions/20261017-133649-6e02c792-a0ed-447c-88d8-f6ad86503e31.webp?v=3"
     }
   ],
-  "last_scraped": "2026-10-17T10:29:42.391165"
+  "last_scraped": "2026-10-18T10:49:56.054892"
 }
