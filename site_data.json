@@ -167,7 +167,7 @@
       "note_filename": "new-ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
       "source": "https://jackpotjoker.co.uk/competitions/new-ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions-1",
       "draw_date": "29/11/2026",
-      "status": "Active",
+      "status": "Inactive",
       "ticket_price": "2.00",
       "prize_value": "0.00",
       "categories": [
@@ -287,9 +287,9 @@
     {
       "title": "Ticket Takeover - win a huge ticket bundle into the competitions!",
       "note_filename": "ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
-      "source": "https://jackpotjoker.co.uk/competitions/tticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
+      "source": "https://jackpotjoker.co.uk/competitions/ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions-1",
       "draw_date": "29/11/2026",
-      "status": "Inactive",
+      "status": "Active",
       "ticket_price": "2.00",
       "prize_value": "0.00",
       "categories": [
@@ -535,7 +535,7 @@
       "note_filename": "win-a-top-of-the-range-tcl-50-inch-mini-led-smart-4k-tv",
       "source": "https://jackpotjoker.co.uk/competitions/win-a-tcl-50-inch-mini-led-4k-tv",
       "draw_date": "01/11/2026",
-      "status": "Active",
+      "status": "Inactive",
       "ticket_price": "0.10",
       "prize_value": "0.00",
       "categories": [
@@ -703,7 +703,22 @@
       ],
       "description": "Win an incredible ticket bundle into the competitions! Tickets only \u00a32 each & only 20 tickets available! This is your chance to win big!!",
       "image_path": "/img/w=640,f=webp/competitions/20260720-164306-17f2f5a4-4fe6-4f5e-ad01-03c2e8dca57d.jpg"
+    },
+    {
+      "title": "Win a Cinmoore Bird Feeder 2.5k Camera with HD Live View & AI Bird Identification Built In WIFI & Solar Powered",
+      "note_filename": "win-a-cinmoore-bird-feeder-25k-camera-with-hd-live-view-ai-bird-identification-built-in-wifi-solar-powered",
+      "source": "https://jackpotjoker.co.uk/competitions/win-a-cinmoore-bird-feeder-2-5k-camera-with-hd-live-view-ai-bird-identification-built-in-wifi-solar-powered",
+      "draw_date": "15/11/2026",
+      "status": "Active",
+      "ticket_price": "0.02",
+      "prize_value": "0.00",
+      "categories": [],
+      "tags": [
+        "competition"
+      ],
+      "description": "Win a Cinmoore Bird Feeder 2.5k Camera with HD Live View & AI Bird Identification Built In WIFI & Solar Powered",
+      "image_path": "/img/w=640,f=webp/competitions/20261023-153440-9ec7ac11-cb53-47f6-917e-6fb81ab03bd8.webp?v=3"
     }
   ],
-  "last_scraped": "2026-10-23T11:25:30.237662"
+  "last_scraped": "2026-10-24T10:44:20.573294"
 }
