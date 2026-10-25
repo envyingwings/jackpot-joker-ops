@@ -289,7 +289,7 @@
       "note_filename": "ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
       "source": "https://jackpotjoker.co.uk/competitions/ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions-1",
       "draw_date": "29/11/2026",
-      "status": "Active",
+      "status": "Inactive",
       "ticket_price": "2.00",
       "prize_value": "0.00",
       "categories": [
@@ -447,7 +447,7 @@
       "note_filename": "newest-winner-takes-it-all-an-incredible-ticket-bundle-drawn-when-full",
       "source": "https://jackpotjoker.co.uk/competitions/newest-winner-takes-it-all-an-incredible-ticket-bundle-drawn-when-full-1",
       "draw_date": "20/09/2027",
-      "status": "Active",
+      "status": "Inactive",
       "ticket_price": "5.00",
       "prize_value": "0.00",
       "categories": [],
@@ -718,7 +718,58 @@
       ],
       "description": "Win a Cinmoore Bird Feeder 2.5k Camera with HD Live View & AI Bird Identification Built In WIFI & Solar Powered",
       "image_path": "/img/w=640,f=webp/competitions/20261023-153440-9ec7ac11-cb53-47f6-917e-6fb81ab03bd8.webp?v=3"
+    },
+    {
+      "title": "NEWERTicket Takeover - win a huge ticket bundle into the competitions!",
+      "note_filename": "newerticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
+      "source": "https://jackpotjoker.co.uk/competitions/newerticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
+      "draw_date": "29/11/2026",
+      "status": "Active",
+      "ticket_price": "2.00",
+      "prize_value": "0.00",
+      "categories": [
+        "Instant Wins"
+      ],
+      "tags": [
+        "competition",
+        "Instant-Wins"
+      ],
+      "description": "Win an incredible ticket bundle into the competitions! Tickets only \u00a32 each & only 20 tickets available! This is your chance to win big!!",
+      "image_path": "/img/w=640,f=webp/competitions/20260720-164306-17f2f5a4-4fe6-4f5e-ad01-03c2e8dca57d.jpg"
+    },
+    {
+      "title": "Win a TCL 85 inch 4K mini LED TV",
+      "note_filename": "win-a-tcl-85-inch-4k-mini-led-tv",
+      "source": "https://jackpotjoker.co.uk/competitions/win-a-tcl-85-inch-4k-mini-led-tv",
+      "draw_date": "13/12/2026",
+      "status": "Active",
+      "ticket_price": "1.00",
+      "prize_value": "0.00",
+      "categories": [
+        "Tech"
+      ],
+      "tags": [
+        "competition",
+        "Tech"
+      ],
+      "description": "Win a TCL 85 inch 4K mini LED",
+      "image_path": "/img/w=640,f=webp/competitions/20261024-161557-e1e68cb6-7af3-4493-a762-7b69d777a5ec.jpeg?v=3"
+    },
+    {
+      "title": "Newer Winner Takes it all \u2013 An incredible ticket bundle \u2013 Drawn when full!",
+      "note_filename": "newer-winner-takes-it-all-an-incredible-ticket-bundle-drawn-when-full",
+      "source": "https://jackpotjoker.co.uk/competitions/newer-winner-takes-it-all-an-incredible-ticket-bundle-drawn-when-full",
+      "draw_date": "20/09/2027",
+      "status": "Active",
+      "ticket_price": "5.00",
+      "prize_value": "0.00",
+      "categories": [],
+      "tags": [
+        "competition"
+      ],
+      "description": "Win An incredible Ticket bundle into all the top Competitions",
+      "image_path": "/img/w=640,f=webp/competitions/20260720-164306-8a8ae887-d0eb-4bad-914c-cadd0130191d.jpg"
     }
   ],
-  "last_scraped": "2026-10-24T10:44:20.573294"
+  "last_scraped": "2026-10-25T12:27:45.092909"
 }
