@@ -163,11 +163,11 @@
       "image_path": "/img/w=640,f=webp/competitions/20260720-164306-8a8ae887-d0eb-4bad-914c-cadd0130191d.jpg"
     },
     {
-      "title": "New Ticket Takeover - win a huge ticket bundle into the competitions!",
+      "title": "NEW Ticket Takeover - win a huge ticket bundle into the competitions!",
       "note_filename": "new-ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
-      "source": "https://jackpotjoker.co.uk/competitions/new-ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions-1",
+      "source": "https://jackpotjoker.co.uk/competitions/new-ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions-2",
       "draw_date": "29/11/2026",
-      "status": "Inactive",
+      "status": "Active",
       "ticket_price": "2.00",
       "prize_value": "0.00",
       "categories": [
@@ -724,7 +724,7 @@
       "note_filename": "newerticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
       "source": "https://jackpotjoker.co.uk/competitions/newerticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
       "draw_date": "29/11/2026",
-      "status": "Active",
+      "status": "Inactive",
       "ticket_price": "2.00",
       "prize_value": "0.00",
       "categories": [
@@ -825,5 +825,5 @@
       "image_path": "/img/w=1024,f=webp/competitions/20261024-161557-e1e68cb6-7af3-4493-a762-7b69d777a5ec.jpeg?v=3"
     }
   ],
-  "last_scraped": "2026-10-26T14:05:22.879142"
+  "last_scraped": "2026-10-27T13:06:32.838063"
 }
