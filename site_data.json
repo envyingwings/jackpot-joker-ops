@@ -167,7 +167,7 @@
       "note_filename": "new-ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
       "source": "https://jackpotjoker.co.uk/competitions/new-ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions-2",
       "draw_date": "29/11/2026",
-      "status": "Active",
+      "status": "Inactive",
       "ticket_price": "2.00",
       "prize_value": "0.00",
       "categories": [
@@ -625,7 +625,7 @@
       "note_filename": "win-a-shark-flexstyle-5-in-1-air-styler-hair-dryer-stone-hd446sluk",
       "source": "https://jackpotjoker.co.uk/competitions/win-a-shark-flexstyle-5-in-1-air-styler-hair-dryer-stone-hd446sluk",
       "draw_date": "08/11/2026",
-      "status": "Active",
+      "status": "Inactive",
       "ticket_price": "0.02",
       "prize_value": "0.00",
       "categories": [],
@@ -823,7 +823,25 @@
       ],
       "description": "Win a TCL 85 inch 4K mini LED",
       "image_path": "/img/w=1024,f=webp/competitions/20261024-161557-e1e68cb6-7af3-4493-a762-7b69d777a5ec.jpeg?v=3"
+    },
+    {
+      "title": "NEWER Ticket Takeover - win a huge ticket bundle into the competitions!",
+      "note_filename": "newer-ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
+      "source": "https://jackpotjoker.co.uk/competitions/newer-ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions-1",
+      "draw_date": "29/11/2026",
+      "status": "Active",
+      "ticket_price": "2.00",
+      "prize_value": "0.00",
+      "categories": [
+        "Instant Wins"
+      ],
+      "tags": [
+        "competition",
+        "Instant-Wins"
+      ],
+      "description": "Win an incredible ticket bundle into the competitions! Tickets only \u00a32 each & only 20 tickets available! This is your chance to win big!!",
+      "image_path": "/img/w=640,f=webp/competitions/20260720-164306-17f2f5a4-4fe6-4f5e-ad01-03c2e8dca57d.jpg"
     }
   ],
-  "last_scraped": "2026-10-29T14:05:04.674506"
+  "last_scraped": "2026-10-30T13:57:12.284032"
 }
