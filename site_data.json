@@ -132,7 +132,7 @@
       "note_filename": "jokers-kitchen-heaven-win-thousands-of-pounds-of-luxury-kitchen-gadgets-instantly",
       "source": "https://jackpotjoker.co.uk/competitions/jokers-kitchen-heaven-win-thousands-of-pounds-of-luxury-kitchen-gadgets-instantly",
       "draw_date": "31/10/2026",
-      "status": "Active",
+      "status": "Inactive",
       "ticket_price": "0.25",
       "prize_value": "15000.00",
       "categories": [
@@ -167,7 +167,7 @@
       "note_filename": "new-ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
       "source": "https://jackpotjoker.co.uk/competitions/new-ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions-3",
       "draw_date": "29/11/2026",
-      "status": "Active",
+      "status": "Inactive",
       "ticket_price": "2.00",
       "prize_value": "0.00",
       "categories": [
@@ -687,11 +687,11 @@
       "image_path": "/img/w=640,f=webp/competitions/20261017-133649-6e02c792-a0ed-447c-88d8-f6ad86503e31.webp?v=3"
     },
     {
-      "title": "Newest Ticket Takeover - win a huge ticket bundle into the competitions!",
+      "title": "NEWEST Ticket Takeover - win a huge ticket bundle into the competitions!",
       "note_filename": "newest-ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
-      "source": "https://jackpotjoker.co.uk/competitions/newest-ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
+      "source": "https://jackpotjoker.co.uk/competitions/newest-ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions-1",
       "draw_date": "29/11/2026",
-      "status": "Inactive",
+      "status": "Active",
       "ticket_price": "2.00",
       "prize_value": "0.00",
       "categories": [
@@ -841,7 +841,25 @@
       ],
       "description": "Win an incredible ticket bundle into the competitions! Tickets only \u00a32 each & only 20 tickets available! This is your chance to win big!!",
       "image_path": "/img/w=640,f=webp/competitions/20260720-164306-17f2f5a4-4fe6-4f5e-ad01-03c2e8dca57d.jpg"
+    },
+    {
+      "title": "Win an XBox Series S Games Console",
+      "note_filename": "win-an-xbox-series-s-games-console",
+      "source": "https://jackpotjoker.co.uk/competitions/win-an-xbox-series-s-games-console",
+      "draw_date": "29/11/2026",
+      "status": "Active",
+      "ticket_price": "1.00",
+      "prize_value": "420.00",
+      "categories": [
+        "Tech"
+      ],
+      "tags": [
+        "competition",
+        "Tech"
+      ],
+      "description": "Win an Xbox Series S Games Console \n\nXbox Series S Digital Edition Console\nThe sleek and stylish Xbox Series S Digital Edition Console has been created to provide fast, smooth, digital only gameplay. Thanks to a custom-built SSD with integrated software, you\u2019ll receive reduced load times, fast, streamlined gameplay, along with the ability to play thousands of titles from four generations of consoles.\n\nDownload and play\nXbox Series S provides next-gen gaming via a vast digital launch library. Handily, all your games, saves and backups are stored safely in the cloud. Additionally, you can enjoy the ability to pre-order and pre-install upcoming games so you\u2019re ready to play the moment they launch.\n\nSmall, yet powerful\nEven though Xbox Series S is the smallest Xbox ever, it still packs a punch, offering more dynamic worlds, and faster load times. Housing AMD\u2019s Zen 2 and RDNA 2 architectures, Xbox Series S delivers DirectX Ray tracing, true-to-life lighting, shadows and accurate reflections to create dynamic living worlds.\n\nBe immersed\nXbox Series S offers up to 120 frames per second at a resolution of 1440p, whilst Dolby TrueHD with Atmos technology provides you with a premiere sound experience that puts you in the centre of a rich, 3D spatial soundscape.\n\nQuick start\nJump seamlessly between multiple games in next to no time, thanks to Quick Resume \u2013 meaning you\u2019ll now always have time to jump back in and have one more go with that end of level boss.\n\nMore ways to play\nXbox Series S also works with Xbox Live, the most advanced multiplayer network. With millions of players around the world, and more than a decade of multiplayer experience, Xbox Live is the proven place to play. And now, everyone is invited to experience smarter matchmaking, less waiting, and better performance with Xbox Live on Xbox Series S. You can even record, share and broadcast your moments of glory.",
+      "image_path": "/img/w=640,f=webp/competitions/20261031-094343-2c949f4b-c011-44fe-ace8-2f281758b34a.jpg?v=3"
     }
   ],
-  "last_scraped": "2026-10-31T13:31:24.800324"
+  "last_scraped": "2026-11-01T14:12:10.516651"
 }
