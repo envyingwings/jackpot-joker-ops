@@ -76,7 +76,7 @@
       "note_filename": "jokers-18k-bingo-18000-prize-pot-over-24000-prizes-up-for-grabs-instantly-upto-1000",
       "source": "https://jackpotjoker.co.uk/competitions/jokers-18k-bingo-18000-prize-pot-over-24-000-prizes-up-for-grabs-instantly-upto-1000",
       "draw_date": "08/11/2026",
-      "status": "Active",
+      "status": "Inactive",
       "ticket_price": "0.33",
       "prize_value": "1000.00",
       "categories": [
@@ -658,7 +658,7 @@
       "note_filename": "win-a-pair-of-oasis-tickets-at-knebworth-2-oasis-x-adidas-t-shirts",
       "source": "https://jackpotjoker.co.uk/competitions/win-a-pair-of-oasis-tickets-at-knebworth-2-oasis-x-adidas-t-shirts",
       "draw_date": "08/11/2026",
-      "status": "Active",
+      "status": "Inactive",
       "ticket_price": "0.35",
       "prize_value": "0.00",
       "categories": [],
@@ -1023,5 +1023,5 @@
       "image_path": "/img/w=640,f=webp/competitions/20261103-135508-cb35528d-78b6-4986-bcf2-3dc6ebc1d942.jpg?v=3"
     }
   ],
-  "last_scraped": "2026-11-08T14:12:43.218583"
+  "last_scraped": "2026-11-09T17:21:44.041818"
 }
