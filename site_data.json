@@ -96,7 +96,7 @@
       "note_filename": "win-a-luxury-hot-tub-break-for-upto-8-people-at-tattershall-lakes",
       "source": "https://jackpotjoker.co.uk/competitions/win-a-luxury-hot-tub-escape-at-tattershall-lakes-for-upto-8-people-copy",
       "draw_date": "15/11/2026",
-      "status": "Active",
+      "status": "Inactive",
       "ticket_price": "1.00",
       "prize_value": "0.00",
       "categories": [
@@ -167,7 +167,7 @@
       "note_filename": "new-ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
       "source": "https://jackpotjoker.co.uk/competitions/new-ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions-5-copy",
       "draw_date": "29/11/2026",
-      "status": "Active",
+      "status": "Inactive",
       "ticket_price": "2.00",
       "prize_value": "0.00",
       "categories": [
@@ -687,11 +687,11 @@
       "image_path": "/img/w=640,f=webp/competitions/20261017-133649-6e02c792-a0ed-447c-88d8-f6ad86503e31.webp?v=3"
     },
     {
-      "title": "NEWEST  Ticket Takeover - win a huge ticket bundle into the competitions!",
+      "title": "NEWEST Ticket Takeover - win a huge ticket bundle into the competitions!",
       "note_filename": "newest-ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
-      "source": "https://jackpotjoker.co.uk/competitions/newest-ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions-3",
+      "source": "https://jackpotjoker.co.uk/competitions/newest-ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions-4",
       "draw_date": "29/11/2026",
-      "status": "Inactive",
+      "status": "Active",
       "ticket_price": "2.00",
       "prize_value": "0.00",
       "categories": [
@@ -847,7 +847,7 @@
       "note_filename": "win-an-xbox-series-s-games-console",
       "source": "https://jackpotjoker.co.uk/competitions/win-an-xbox-series-s-games-console-2",
       "draw_date": "15/11/2026",
-      "status": "Active",
+      "status": "Inactive",
       "ticket_price": "2.00",
       "prize_value": "420.00",
       "categories": [
@@ -1043,5 +1043,5 @@
       "image_path": "/img/w=1024,f=webp/competitions/20261109-173009-3643b795-46ed-4f31-ab70-dfbec334af6a.png?v=3"
     }
   ],
-  "last_scraped": "2026-11-15T14:38:58.463614"
+  "last_scraped": "2026-11-16T16:55:20.867668"
 }
