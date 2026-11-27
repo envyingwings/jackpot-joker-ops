@@ -112,10 +112,10 @@
     {
       "title": "WIn a Shark UltraCyclone Pro Classic Handheld Vacuum Cleaner",
       "note_filename": "win-a-shark-ultracyclone-pro-classic-handheld-vacuum-cleaner",
-      "source": "https://jackpotjoker.co.uk/competitions/win-a-shark-ultracyclone-pro-classic-handheld-vacuum-cleaner-copy-copy-copy",
-      "draw_date": "13/09/2026",
-      "status": "Inactive",
-      "ticket_price": "0.10",
+      "source": "https://jackpotjoker.co.uk/competitions/win-a-shark-ultracyclone-pro-classic-handheld-vacuum-cleaner-copy-copy-copy-copy",
+      "draw_date": "13/12/2026",
+      "status": "Active",
+      "ticket_price": "0.02",
       "prize_value": "0.00",
       "categories": [
         "Tech"
@@ -167,7 +167,7 @@
       "note_filename": "new-ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
       "source": "https://jackpotjoker.co.uk/competitions/new-ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions-8",
       "draw_date": "29/11/2026",
-      "status": "Active",
+      "status": "Inactive",
       "ticket_price": "2.00",
       "prize_value": "0.00",
       "categories": [
@@ -287,9 +287,9 @@
     {
       "title": "Ticket Takeover - win a huge ticket bundle into the competitions!",
       "note_filename": "ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions",
-      "source": "https://jackpotjoker.co.uk/competitions/ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions-2",
+      "source": "https://jackpotjoker.co.uk/competitions/ticket-takeover-win-a-huge-ticket-bundle-into-the-competitions-3",
       "draw_date": "29/11/2026",
-      "status": "Inactive",
+      "status": "Active",
       "ticket_price": "2.00",
       "prize_value": "0.00",
       "categories": [
@@ -901,7 +901,7 @@
       "note_filename": "win-a-g-shock-2100-series-493mm-x-444mm-mens-watch-blue",
       "source": "https://jackpotjoker.co.uk/competitions/win-a-g-shock-2100-series-49-3mm-x-44-4mm-mens-watch-blue",
       "draw_date": "26/11/2026",
-      "status": "Active",
+      "status": "Inactive",
       "ticket_price": "0.02",
       "prize_value": "0.00",
       "categories": [
@@ -1079,5 +1079,5 @@
       "image_path": "/img/w=640,f=webp/competitions/20261123-082300-1d8f92c9-9236-40d0-9d9e-c876dac19366.webp?v=3"
     }
   ],
-  "last_scraped": "2026-11-26T17:39:18.293381"
+  "last_scraped": "2026-11-27T17:22:45.541687"
 }
